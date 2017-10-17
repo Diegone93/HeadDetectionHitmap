@@ -1,4 +1,4 @@
-# HeadDetectionHitmap
+# HeadDetectionHeatmap
 
 ## Authors
 
